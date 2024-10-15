@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id google_btn
+id main
+id other_btn
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string google
+string hello
+string other_activity
+string welcome
+style Base.Theme.ActivitityLifecycle
+style Theme.ActivitityLifecycle
+xml backup_rules
+xml data_extraction_rules
