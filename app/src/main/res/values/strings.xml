@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activitity Lifecycle</string>
+    <string name="hello">HELLO WORLD</string>
+    <string name="google">Open Google</string>
+    <string name="other_activity">Open Activity</string>
+    <string name="welcome">Welcome to Second Activity</string>
+
+</resources>
